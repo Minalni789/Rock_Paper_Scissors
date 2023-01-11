@@ -1,3 +1,6 @@
+''' This is a command-line rock paper scissors game that promts the user for input, 
+random generates computer's pick and assigns win points.''''
+
 import random
 
 user_wins = 0
